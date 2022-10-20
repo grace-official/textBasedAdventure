@@ -2,4 +2,4 @@
 
 # def mainMenu():
 
-
+menuInput = int(input(""))
