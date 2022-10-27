@@ -1,3 +1,3 @@
 def newGame():
 
-    print("new game created!")
+    print("Game starting.\nGame starting..\nGame starting...\nGame starting....\n")
