@@ -26,13 +26,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/g.egglestone/OneDrive - School District No. 36 (Surrey)/GitHub/textBasedAdventure/textAdventure"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/g.egglestone/OneDrive - School District No. 36 (Surrey)/GitHub/textBasedAdventure/textAdventure&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.diceRoller">
     <configuration name="diceRoller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="textAdventure" />
@@ -98,9 +98,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.textAdventure" />
       <item itemvalue="Python.diceRoller" />
       <item itemvalue="Python.mainMenu" />
+      <item itemvalue="Python.textAdventure" />
     </list>
     <recent_temporary>
       <list>
